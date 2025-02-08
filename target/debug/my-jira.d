@@ -1,0 +1,1 @@
+C:\Users\17col\rustprojects\rust_bootcamp\jira-clone\target\debug\my-jira.exe: C:\Users\17col\rustprojects\rust_bootcamp\jira-clone\src\db.rs C:\Users\17col\rustprojects\rust_bootcamp\jira-clone\src\main.rs C:\Users\17col\rustprojects\rust_bootcamp\jira-clone\src\models.rs

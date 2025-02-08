@@ -1,0 +1,10 @@
+C:\Users\17col\rustprojects\rust_bootcamp\jira-clone\target\debug\deps\libgetrandom-ba0d43ca5eca3fd1.rmeta: C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src/lib.rs C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src\backends.rs C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src\error.rs C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src\util.rs C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src\../README.md C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src\backends\windows.rs
+
+C:\Users\17col\rustprojects\rust_bootcamp\jira-clone\target\debug\deps\getrandom-ba0d43ca5eca3fd1.d: C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src/lib.rs C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src\backends.rs C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src\error.rs C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src\util.rs C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src\../README.md C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src\backends\windows.rs
+
+C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src/lib.rs:
+C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src\backends.rs:
+C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src\error.rs:
+C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src\util.rs:
+C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src\../README.md:
+C:\Users\17col\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.1\src\backends\windows.rs:
